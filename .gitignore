@@ -1,0 +1,17 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Python virtual environment
+venv/
+env/
+pytorch-learning/
+
+# Python bytecode
+__pycache__/
+
+# Logs
+*.log
+
+# Other
+.DS_Store
